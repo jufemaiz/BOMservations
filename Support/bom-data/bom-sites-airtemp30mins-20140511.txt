@@ -1,0 +1,607 @@
+Bureau of Meteorology product IDCJMC0015.                                             Produced: 11 May 2014
+Australian stations measuring half-hourly air_temp
+Site    Name                                     Lat       Lon      Start    End       Years   %      Obs AWS
+-------------------------------------------------------------------------------------------------------------
+   1006 WYNDHAM AERO                             -15.5100  128.1503 Sep 2000 May 2014   13.7   97    24.6   Y
+   1007 TROUGHTON ISLAND                         -13.7542  126.1485 Jun 1990 May 2014   15.8   63    21.6   Y
+   1019 KALUMBURU                                -14.2964  126.6453 Sep 1998 May 2014   15.7   96    23.7   Y
+   1020 TRUSCOTT                                 -14.0900  126.3867 May 2004 May 2014   10.0   96    32.6   Y
+   2012 HALLS CREEK AIRPORT                      -18.2292  127.6636 Dec 1993 May 2014   20.2   97    43.8   Y
+   2056 KUNUNURRA AERO                           -15.7814  128.7100 Dec 1993 May 2014   20.2   97    47.3   Y
+   2064 ARGYLE AERODROME                         -16.6381  128.4517 Dec 1993 May 2014   20.4   97    36.8   Y
+   3003 BROOME AIRPORT                           -17.9475  122.2353 Dec 1993 May 2014   20.2   97    47.3   Y
+   3032 DERBY AERO                               -17.3706  123.6611 Dec 1994 May 2014   19.4   97    23.9   Y
+   3080 CURTIN AERO                              -17.5736  123.8217 Dec 1993 May 2014   20.2   95    29.2   Y
+   3092 SOUTH EAST WATERBANK                     -17.8578  122.2725 Aug 1996 Aug 1999    3.1   89    45.0   Y
+   3093 FITZROY CROSSING AERO                    -18.1814  125.5619 Aug 1997 May 2014   16.8   97    24.2   Y
+   3096 WEST ROEBUCK                             -17.8964  122.3122 Sep 1999 May 2014   14.7   98    47.6   Y
+   3102 BROOME NTC AWS                           -18.0008  122.2183 Jul 2013 May 2014    0.9   92    46.1   Y
+   4019 MANDORA                                  -19.7419  120.8433 Dec 2009 May 2014    1.8   35    49.6   Y
+   4032 PORT HEDLAND AIRPORT                     -20.3725  118.6317 Dec 1993 May 2014   20.2   97    51.4   Y
+   4083 KARRATHA AERO                            -20.7097  116.7742 Dec 1993 May 2014   20.2   96    47.2   Y
+   4090 ROEBOURNE AERO                           -20.7594  117.1583 Mar 1999 May 2014   14.3   90    23.8   Y
+   4095 LEGENDRE ISLAND                          -20.3583  116.8431 Oct 2009 May 2014    4.5   90    39.9   Y
+   4100 BEDOUT ISLAND                            -19.5894  119.1000 Feb 2011 May 2014    1.1   26    42.8   Y
+   4106 MARBLE BAR                               -21.1756  119.7497 Sep 2000 May 2014   13.6   69    20.5   Y
+   5007 LEARMONTH AIRPORT                        -22.2406  114.0967 Dec 1993 May 2014   20.2   97    47.5   Y
+   5008 MARDIE                                   -21.1906  115.9797 Jun 2000 May 2014   13.7   62    16.2   Y
+   5017 ONSLOW AIRPORT                           -21.6689  115.1092 Nov 1997 May 2014   16.5   97    26.0   Y
+   5084 THEVENARD ISLAND                         -21.4606  115.0197 Jan 2000 May 2014   14.0   91    28.3   Y
+   5094 BARROW ISLAND AIRPORT                    -20.8750  115.4056 Apr 1999 May 2014   15.1   97    40.1   Y
+   6011 CARNARVON AIRPORT                        -24.8878  113.6700 Dec 1993 May 2014   20.2   97    47.8   Y
+   6105 SHARK BAY AIRPORT                        -25.8925  113.5772 May 2000 May 2014   14.0   97    25.1   Y
+   7045 MEEKATHARRA AIRPORT                      -26.6136  118.5372 Dec 1993 May 2014   20.2   97    48.0   Y
+   7176 NEWMAN AERO                              -23.4169  119.7989 Dec 1993 May 2014   20.2   95    26.9   Y
+   7185 PARABURDOO AERO                          -23.1725  117.7494 Dec 1995 May 2014   18.4   98    26.6   Y
+   7600 MOUNT MAGNET AERO                        -28.1156  117.8425 Apr 1995 May 2014   19.1   96    24.5   Y
+   8051 GERALDTON AIRPORT COMPARISON             -28.7953  114.6975 Dec 1993 May 2014   19.5   93    48.5   Y
+   8290 NORTH ISLAND                             -28.3008  113.5936 Sep 2000 May 2014   13.7   95    24.1   Y
+   8296 MORAWA AIRPORT                           -29.2039  116.0247 Feb 1997 May 2014   17.3   96    29.8   Y
+   8297 DALWALLINU                               -30.2761  116.6714 May 1997 May 2014   17.0   96    23.3   Y
+   8315 GERALDTON AIRPORT                        -28.8047  114.6989 Jul 2011 May 2014    2.8   92    50.9   Y
+   9021 PERTH AIRPORT                            -31.9275  115.9764 Jan 1985 May 2014   29.3   99    50.1   Y
+   9037 BADGINGARRA RESEARCH STN                 -30.3381  115.5394 Apr 1997 May 2014   16.8   91    27.3   Y
+   9053 PEARCE RAAF                              -31.6669  116.0189 Dec 1993 May 2014   20.2   94    26.0   Y
+   9172 JANDAKOT AERO                            -32.1011  115.8794 Dec 1993 May 2014   20.4   98    49.1   Y
+   9178 GINGIN AERO                              -31.4628  115.8642 Mar 1996 May 2014   17.8   95    24.6   Y
+   9193 ROTTNEST ISLAND                          -32.0069  115.5022 Dec 1993 May 2014   20.4   98    49.2   Y
+   9204 GOOSEBERRY HILL                          -31.9414  116.0506 Dec 1993 May 2014   20.4   98    51.3   Y
+   9215 SWANBOURNE                               -31.9558  115.7619 Dec 1993 May 2014   20.4   98    49.1   Y
+   9225 PERTH METRO                              -31.9192  115.8728 Dec 1993 May 2014   19.3   92    47.5   Y
+   9240 BICKLEY                                  -32.0072  116.1369 Oct 1997 May 2014   16.6   98    25.2   Y
+   9256 GARDEN ISLAND HSF                        -32.2433  115.6839 Nov 2001 May 2014   12.5   98    25.8   Y
+   9265 HILLARYS BOAT HARBOUR NTC AWS            -31.8256  115.7386 Jul 2013 Apr 2014    0.8   94    48.3   Y
+   9518 CAPE LEEUWIN                             -34.3728  115.1358 Dec 1993 May 2014   20.4   92    27.7   Y
+   9519 CAPE NATURALISTE                         -33.5372  115.0189 Nov 1995 May 2014   18.5   97    28.7   Y
+   9538 DWELLINGUP                               -32.7103  116.0594 Feb 1999 May 2014   15.3   98    25.3   Y
+   9542 ESPERANCE AERO                           -33.6825  121.8275 Dec 1993 May 2014   20.4   98    48.6   Y
+   9569 BUSSELTON                                -33.6550  115.3194 Oct 1997 Nov 2011   13.4   92    25.0   Y
+   9573 MANJIMUP                                 -34.2508  116.1450 Oct 2000 May 2014   13.6   95    24.5   Y
+   9603 BUSSELTON AERO                           -33.6858  115.4008 Oct 1997 May 2014   16.6   97    26.1   Y
+   9617 BRIDGETOWN                               -33.9486  116.1311 Jul 1998 May 2014   15.8   97    27.9   Y
+   9741 ALBANY AIRPORT COMPARISON                -34.9414  117.8022 Dec 1993 Feb 2014   20.0   96    48.9   Y
+   9746 WITCHCLIFFE                              -34.0281  115.1042 Apr 1999 May 2014   15.1   96    29.5   Y
+   9778 MARGARET RIVER CALM                      -33.9350  115.0831 Apr 1995 Feb 1999    2.6   49     3.6   N
+   9789 ESPERANCE                                -33.8300  121.8925 Dec 1993 May 2014   20.2   97    48.5   Y
+   9887 MANDURAH                                 -32.5211  115.7500 Dec 1993 Oct 2001    7.8   94    27.2   Y
+   9961 HOPETOUN NORTH                           -33.9306  120.1283 Dec 1995 Apr 2014   18.3   98    30.7   Y
+   9964 ROCKY GULLY                              -34.5714  117.0106 Nov 1995 May 2014   18.5   96    24.5   Y
+   9965 BUNBURY                                  -33.3567  115.6447 Apr 1999 May 2014   15.1   98    29.3   Y
+   9968 SHANNON                                  -34.5683  116.3367 Nov 1996 Sep 2013   16.2   87    21.7   Y
+   9977 MANDURAH                                 -32.5219  115.7119 Oct 2001 May 2014   12.6   97    30.5   Y
+   9983 STYLES TOWER                             -33.9123  115.8999 Apr 2012 May 2014    1.9   73    52.8   N
+   9994 COLLIE EAST                              -33.3608  116.1717 Dec 2002 May 2014   11.4   98    26.6   Y
+   9998 NORTH WALPOLE                            -34.9469  116.7222 Jan 2004 May 2014   10.3   96    25.0   Y
+   9999 ALBANY AIRPORT                           -34.9411  117.8158 Jan 2012 May 2014    2.3   91    53.7   Y
+  10286 CUNDERDIN AIRFIELD                       -31.6219  117.2217 Aug 1996 May 2014   17.8   98    24.7   Y
+  10692 NEWDEGATE RESEARCH STATION               -33.1131  118.8400 May 1996 May 2014   18.0   93    25.1   Y
+  10905 JACUP                                    -33.8878  119.1092 Jan 1994 May 2014   20.0   82    24.6   Y
+  10911 LAKE GRACE                               -33.1006  118.4647 Jun 1997 May 2014   16.6   95    22.6   Y
+  10916 KATANNING                                -33.6856  117.6064 Jan 1999 May 2014   15.3   95    30.2   Y
+  10917 WANDERING                                -32.6722  116.6706 Dec 1998 May 2014   15.4   97    24.1   Y
+  11003 EUCLA                                    -31.6797  128.8958 Mar 1995 May 2014   19.2   98    49.6   Y
+  11052 FORREST                                  -30.8453  128.1092 Nov 1993 May 2014   20.5   97    27.0   Y
+  11053 RED ROCKS POINT                          -32.2028  127.5297 Dec 1999 May 2014    9.5   42     8.6   Y
+  12009 NORSEMAN AERO                            -32.2147  121.7547 Dec 1999 May 2014   14.4   98    25.3   Y
+  12038 KALGOORLIE-BOULDER AIRPORT               -30.7847  121.4533 Jan 1994 May 2014   20.1   97    48.4   Y
+  12044 MUNGLINUP WEST                           -33.5547  120.6997 Apr 2002 May 2014   12.1   96    33.5   Y
+  12071 SALMON GUMS RES.STN.                     -32.9869  121.6239 Nov 1999 May 2014   14.5   96    28.3   Y
+  12241 LEONORA AERO                             -28.8789  121.3186 Feb 2007 May 2014    7.3   96    25.8   Y
+  12305 LAVERTON AERO                            -28.6133  122.4236 Dec 1993 May 2014   20.4   97    25.8   Y
+  12314 LEINSTER AERO                            -27.8386  120.7031 Sep 1994 May 2014   19.7   96    24.4   Y
+  12320 SOUTHERN CROSS AIRFIELD                  -31.2353  119.3564 Oct 1996 May 2014   17.6   98    24.8   Y
+  12322 MOUNT WALTON EAST IWDF                   -30.3803  120.1481 Jan 1997 Apr 2001    1.7   11     3.0   Y
+  13011 WARBURTON AIRFIELD                       -26.1317  126.5839 May 1997 May 2014   16.9   96    28.9   Y
+  13017 GILES METEOROLOGICAL OFFICE              -25.0341  128.3010 Nov 1992 May 2014   21.5   98    46.9   Y
+  13030 TELFER AERO                              -21.7125  122.2281 Dec 1995 May 2014   18.4   97    24.5   Y
+  14015 DARWIN AIRPORT                           -12.4239  130.8925 Jan 1985 May 2014   29.3   99    49.7   Y
+  14023 GUNN POINT                               -12.2490  131.0449 Jan 2006 May 2014    1.3   14    75.0   Y
+  14031 CHARLES POINT                            -12.3890  130.6309 Jan 2006 Dec 2008    2.8   89   133.4   Y
+  14037 LEE POINT                                -12.3582  130.8932 Dec 2005 Apr 2007    1.4   91   139.0   Y
+  14041 MIDDLE POINT                             -12.6050  131.2988 Aug 2001 May 2014   12.8   97    32.4   Y
+  14043 CHANNEL ISLAND AWS                       -12.5557  130.8644 Jan 2006 Aug 2006    0.7   84   117.9   Y
+  14046 NOONAMAH AWS                             -12.6365  131.0714 Nov 2008 May 2013    4.6   97    39.1   Y
+  14072 DARWIN NTC AWS                           -12.4719  130.8458 Aug 2012 May 2014    1.8   86    47.6   Y
+  14142 PIRLANGIMPI AIRPORT                      -11.4022  130.4217 Jan 2006 May 2014    8.3   95    36.7   Y
+  14198 JABIRU AIRPORT                           -12.6594  132.8939 Jul 1993 May 2014   20.8   97    27.0   Y
+  14245 CAPE DON                                 -11.3081  131.7651 Dec 2005 May 2014    8.1   91    23.8   Y
+  14254 POINT STUART                             -12.2397  131.8791 Mar 2003 May 2014    8.0   54    14.0   Y
+  14272 BATCHELOR AIRPORT                        -13.0545  131.0252 Jul 1993 May 2014   19.3   89    30.4   Y
+  14274 MCCLUER ISLAND                           -11.0468  132.9791 Jul 2000 May 2014   11.5   34    14.3   Y
+  14277 DUM IN MIRRIE AIRSTRIP                   -12.6350  130.3725 Aug 2000 May 2014   12.8   75    27.2   Y
+  14299 NGUKURR AIRPORT                          -14.7236  134.7456 Jul 2012 May 2014    1.8   91    47.9   Y
+  14308 CROKER ISLAND AIRPORT                    -11.1629  132.4813 Sep 2012 May 2014    1.7   86    48.0   Y
+  14309 MURGANELLA AIRSTRIP                      -11.5485  132.9268 Oct 2012 May 2014    1.6   88    47.7   Y
+  14310 OENPELLI AIRPORT                         -12.3270  133.0072 Sep 2012 May 2014    1.6   80    47.8   Y
+  14314 NOONAMAH AIRSTRIP                        -12.6099  131.0474 Jul 2013 May 2014    0.9   94    47.9   Y
+  14401 WARRUWI AIRPORT                          -11.6502  133.3796 Aug 2000 May 2014   13.6   92    31.7   Y
+  14402 MILINGIMBI                               -12.1239  134.9078 Dec 2000 Jul 2003    2.7   92    31.6   Y
+  14404 MILINGIMBI AIRPORT                       -12.0931  134.8919 Jul 2003 May 2014   10.8   92    28.9   Y
+  14405 MANINGRIDA AIRPORT                       -12.0569  134.2339 Oct 2003 May 2014   10.5   96    32.4   Y
+  14508 GOVE AIRPORT                             -12.2741  136.8203 Jun 1990 May 2014   23.9   98    47.1   Y
+  14517 NGAYAWILI                                -11.9971  135.5726 Jul 2000 May 2014   12.6   41    18.6   Y
+  14518 GROOTE EYLANDT AIRPORT                   -13.9747  136.4631 Jul 2000 May 2014   13.8   96    30.3   Y
+  14626 DALY WATERS AIRSTRIP                     -16.2636  133.3782 Sep 2000 May 2014   13.5   57    13.7   Y
+  14627 BULMAN                                   -13.6714  134.3414 Oct 2002 May 2014    9.8   65    19.4   Y
+  14703 CENTRE ISLAND                            -15.7426  136.8192 Jul 2000 May 2014   12.8   31     8.6   Y
+  14704 MCARTHUR RIVER MINE AIRPORT              -16.4423  136.0760 Aug 2003 May 2014   10.8   96    33.7   Y
+  14723 BORROLOOLA AIRPORT                       -16.0757  136.3041 Jul 2000 May 2014   13.8   96    31.7   Y
+  14825 VICTORIA RIVER DOWNS                     -16.4030  131.0145 Jul 2000 May 2014   13.8   97    26.4   Y
+  14829 LAJAMANU AIRPORT                         -18.3325  130.6358 Jul 2000 May 2014   13.6   94    30.0   Y
+  14901 DOUGLAS RIVER                            -13.8345  131.1872 Sep 1996 May 2014   16.7   87    25.4   Y
+  14909 CENTRAL ARNHEM PLATEAU                   -13.3275  133.0861 Aug 2003 May 2014    9.8   32     3.7   Y
+  14932 TINDAL RAAF                              -14.5229  132.3826 Jun 1990 May 2014   23.8   97    47.1   Y
+  14948 PORT KEATS AIRPORT                       -14.2495  129.5282 Aug 2000 May 2014   13.5   90    30.4   Y
+  14949 DELAMERE WEAPONS RANGE                   -15.7442  131.9182 Jul 2000 Feb 2014   13.5   96    43.7   Y
+  14954 BRADSHAW                                 -14.9408  130.8092 Nov 2001 May 2014    5.4   25    17.2   Y
+  15135 TENNANT CREEK AIRPORT                    -19.6423  134.1833 Jun 1990 May 2014   23.2   94    47.8   Y
+  15590 ALICE SPRINGS AIRPORT                    -23.7951  133.8890 Jun 1990 May 2014   23.9   97    47.4   Y
+  15602 JERVOIS                                  -22.9494  136.1442 Jul 2000 May 2014   13.3   54    11.2   Y
+  15635 YULARA AIRPORT                           -25.1896  130.9737 Jun 1991 May 2014   22.8   97    47.5   Y
+  15643 TERRITORY GRAPE FARM                     -22.4518  133.6377 Jul 2000 May 2014   13.6   47    17.2   Y
+  15664 WALUNGURRU AIRPORT                       -23.2656  129.3844 Oct 2001 May 2014   11.4   59    21.0   Y
+  15666 RABBIT FLAT                              -20.1824  130.0148 Jan 2002 Feb 2014    8.9   34     6.4   Y
+  16001 WOOMERA AERODROME                        -31.1558  136.8054 Apr 1992 May 2014   22.1   98    48.9   Y
+  16090 COOBER PEDY AIRPORT                      -29.0347  134.7222 Oct 1994 May 2014   19.6   98    32.5   Y
+  16092 PORT AUGUSTA ARID LANDS                  -32.4783  137.7386 Oct 1994 Jul 2001    6.8   95    26.0   Y
+  16096 ROXBY DOWNS (OLYMPIC DAM AERODROME)      -30.4829  136.8772 Sep 1998 May 2014   15.7   98    29.4   Y
+  16097 ERNABELLA (PUKATJA)                      -26.2635  132.1771 Aug 1997 May 2014   16.2   87    26.9   Y
+  16098 TARCOOLA AERO                            -30.7051  134.5786 Sep 1997 May 2014   16.5   95    27.1   Y
+  17043 OODNADATTA AIRPORT                       -27.5553  135.4456 Mar 1995 May 2014   19.2   97    28.4   Y
+  17110 LEIGH CREEK AIRPORT                      -30.5963  138.4219 Jul 1992 May 2014   21.8   97    31.0   Y
+  17123 MOOMBA AIRPORT                           -28.0997  140.1956 May 1995 May 2014   19.0   96    33.0   Y
+  17126 MARREE AERO                              -29.6587  138.0684 Oct 1998 May 2014   15.6   97    26.4   Y
+  18012 CEDUNA AMO                               -32.1297  133.6976 Apr 1992 May 2014   22.1   98    49.0   Y
+  18083 WUDINNA AERO                             -33.0430  135.4519 Jul 1999 May 2014   14.8   98    29.7   Y
+  18106 NULLARBOR                                -31.4492  130.8976 Apr 1992 May 2014   22.0   97    33.2   Y
+  18115 NEPTUNE ISLAND                           -35.3365  136.1174 Aug 1995 May 2014   18.3   92    35.9   Y
+  18116 CLEVE AERODROME                          -33.7081  136.5026 Jul 1996 May 2014   17.8   97    29.3   Y
+  18120 WHYALLA AERO                             -33.0539  137.5205 Apr 1992 May 2014   22.1   98    48.8   Y
+  18191 COULTA (COLES POINT)                     -34.3749  135.3741 Apr 1992 May 2014   22.1   95    39.5   Y
+  18192 NORTH SHIELDS (PORT LINCOLN AWS)         -34.5993  135.8784 Apr 1992 May 2014   22.1   98    49.1   Y
+  18195 MINNIPA PIRSA                            -32.8427  135.1515 Jul 1996 May 2014   17.8   96    28.7   Y
+  18201 PORT AUGUSTA AERO                        -32.5073  137.7169 Jul 2001 May 2014   12.8   98    33.5   Y
+  18217 CUMMINS AERO                             -34.2524  135.7135 May 2007 May 2014    7.0   95    32.6   Y
+  20062 YUNTA AIRSTRIP                           -32.5707  139.5645 Jul 1998 May 2014   15.8   97    29.0   Y
+  21131 CLARE HIGH SCHOOL                        -33.8226  138.5933 Oct 1993 May 2014   20.6   97    32.1   Y
+  21133 SNOWTOWN (RAYVILLE PARK)                 -33.7676  138.2182 Oct 1998 May 2014   15.6   98    36.1   Y
+  22031 MINLATON AERO                            -34.7480  137.5276 Mar 2001 May 2014   13.2   97    38.7   Y
+  22046 EDITHBURGH                               -35.1121  137.7395 Jan 1993 May 2014   21.3   97    39.3   Y
+  22049 STENHOUSE BAY                            -35.2795  136.9392 May 1996 May 2014   18.0   98    31.4   Y
+  22050 KADINA AWS                               -33.9703  137.6628 Jul 2005 May 2014    8.8   97    45.2   Y
+  22803 CAPE WILLOUGHBY                          -35.8426  138.1327 Jun 1995 May 2014   18.9   97    34.6   Y
+  22823 CAPE BORDA                               -35.7549  136.5959 Sep 2002 May 2014   11.7   97    45.9   Y
+  22841 KINGSCOTE AERO                           -35.7114  137.5231 Mar 1994 May 2014   20.2   98    49.5   Y
+  22843 PARNDANA CFS AWS                         -35.7916  137.2496 Sep 2011 May 2014    2.7   92    49.2   Y
+  23013 PARAFIELD AIRPORT                        -34.7977  138.6281 Apr 1992 May 2014   22.1   98    48.7   Y
+  23034 ADELAIDE AIRPORT                         -34.9524  138.5204 Jan 1985 May 2014   29.3   99    49.6   Y
+  23046 ADELAIDE AIRPORT OLD SITE                -34.9566  138.5356 Aug 2002 Jan 2005    2.4   89    37.9   Y
+  23083 EDINBURGH RAAF                           -34.7111  138.6222 Apr 1992 May 2014   22.1   98    47.3   Y
+  23090 ADELAIDE (KENT TOWN)                     -34.9211  138.6216 Oct 1993 May 2014   20.6   98    48.3   Y
+  23122 ROSEWORTHY AWS                           -34.5106  138.6763 Aug 1997 May 2014   16.8   98    35.2   Y
+  23373 NURIOOTPA VITICULTURAL                   -34.4761  139.0056 Sep 1996 May 2014   17.7   98    29.8   Y
+  23842 MOUNT LOFTY                              -34.9784  138.7088 Mar 1993 May 2014   21.2   98    50.9   Y
+  23875 PARAWA (SECOND VALLEY FOREST AWS)        -35.5695  138.2864 Mar 1994 May 2014   20.2   97    34.8   Y
+  23878 MOUNT CRAWFORD (MT CRAWFORD AWS)         -34.7253  138.9273 Oct 1994 May 2014   19.5   97    39.7   Y
+  23885 NOARLUNGA                                -35.1586  138.5057 Sep 2000 May 2014   13.7   98    42.5   Y
+  23887 KUITPO FOREST RESERVE                    -35.1712  138.6783 Oct 1998 May 2014   15.4   97    39.3   Y
+  23894 HINDMARSH ISLAND AWS                     -35.5194  138.8177 Feb 2003 May 2014   11.3   97    35.3   Y
+  24024 LOXTON RESEARCH CENTRE                   -34.4390  140.5978 Dec 1996 May 2014   17.4   98    29.4   Y
+  24048 RENMARK AERO                             -34.1983  140.6766 Jun 1995 May 2014   18.9   97    31.3   Y
+  24580 STRATHALBYN RACECOURSE                   -35.2836  138.8934 May 1996 May 2014   18.0   97    31.5   Y
+  24584 MURRAY BRIDGE (PALLAMANA AERODROME)      -35.0650  139.2273 Mar 2006 May 2014    8.2   97    47.3   Y
+  25557 KEITH (MUNKORA)                          -36.1058  140.3273 Jul 2001 May 2014   12.8   98    30.8   Y
+  25562 LAMEROO (AUSTIN PLAINS)                  -35.3778  140.5378 Jun 2004 May 2014    9.9   97    32.8   Y
+  26021 MOUNT GAMBIER AERO                       -37.7473  140.7739 Apr 1992 May 2014   22.1   98    50.0   Y
+  26091 COONAWARRA                               -37.2906  140.8254 Aug 1997 May 2014   16.8   96    38.3   Y
+  26095 CAPE JAFFA (THE LIMESTONE)               -36.9655  139.7164 Apr 1992 May 2014   22.1   98    39.8   Y
+  26099 NARACOORTE AERODROME                     -36.9813  140.7270 Jun 1998 May 2014   15.9   97    37.7   Y
+  26100 PADTHAWAY SOUTH                          -36.6539  140.5212 Jun 2000 May 2014   13.9   97    27.2   Y
+  26105 ROBE AIRFIELD                            -37.1776  139.8054 Jul 2003 May 2014   10.8   98    32.4   Y
+  27045 WEIPA AERO                               -12.6778  141.9208 Oct 1995 May 2014   18.6   98    48.6   Y
+  27054 COCONUT ISLAND                           -10.0511  143.0686 Jul 2003 May 2014    8.7   39    19.2   Y
+  27058 HORN ISLAND                              -10.5844  142.2900 Oct 1995 May 2014   18.6   96    36.8   Y
+  27073 COEN AIRPORT                             -13.7606  143.1183 Mar 2002 May 2014   12.1   96    30.4   Y
+  27075 SCHERGER RAAF                            -12.6167  142.0869 Dec 2005 May 2014    8.4   92    36.0   Y
+  28004 PALMERVILLE                              -16.0008  144.0758 Jul 2001 May 2014   12.8   96    24.2   Y
+  28008 LOCKHART RIVER AIRPORT                   -12.7850  143.3047 Jun 2001 May 2014   12.9   96    30.0   Y
+  29038 KOWANYAMA AIRPORT                        -15.4818  141.7483 Jun 1999 May 2014   14.9   98    28.7   Y
+  29039 MORNINGTON ISLAND                        -16.6640  139.1837 Oct 1995 Oct 2013   18.0   93    46.2   Y
+  29058 JULIA CREEK AIRPORT                      -20.6672  141.7214 Aug 2001 May 2014   12.5   95    29.6   Y
+  29063 NORMANTON AIRPORT                        -17.6872  141.0733 Apr 2001 May 2014   13.1   98    29.6   Y
+  29077 BURKETOWN AIRPORT                        -17.7483  139.5356 Oct 2001 May 2014   12.6   96    30.2   Y
+  29127 MOUNT ISA AERO                           -20.6778  139.4875 Oct 1995 May 2014   18.6   98    47.0   Y
+  29141 CLONCURRY AIRPORT                        -20.6664  140.5050 Mar 2001 May 2014   13.2   97    29.2   Y
+  29167 CENTURY MINE                             -18.7569  138.7056 Apr 2003 May 2014   11.1   97    47.8   Y
+  29181 LAKE JULIUS AWS                          -20.1167  139.7256 Aug 2013 May 2014    0.8   83    47.1   Y
+  29182 MORNINGTON ISLAND AIRPORT                -16.6620  139.1655 Oct 2013 May 2014    0.7   83    47.7   Y
+  30022 HUGHENDEN AIRPORT                        -20.8192  144.2333 Feb 2001 May 2014   13.3   97    29.0   Y
+  30124 GEORGETOWN AIRPORT                       -18.3039  143.5306 Jun 2004 May 2014    9.9   97    31.6   Y
+  30161 RICHMOND AIRPORT                         -20.7017  143.1167 Nov 1998 May 2014   15.5   98    28.0   Y
+  31011 CAIRNS AERO                              -16.8736  145.7458 Jan 1985 May 2014   29.3   99    42.7   Y
+  31037 LOW ISLES LIGHTHOUSE                     -16.3842  145.5592 Nov 1998 May 2014   15.5   97    30.4   Y
+  31192 GREEN ISLAND                             -16.7614  145.9719 Mar 1997 Jun 2010   13.3   98    47.7   Y
+  31209 COOKTOWN AIRPORT                         -15.4461  145.1861 Jul 2000 May 2014   13.8   97    33.5   Y
+  31210 MAREEBA AIRPORT                          -17.0672  145.4283 Jul 2000 May 2014   13.8   98    29.3   Y
+  31213 CAPE FLATTERY                            -14.9672  145.3106 Jun 2003 May 2014   10.9   97    31.9   Y
+  31222 CAIRNS RACECOURSE                        -16.9463  145.7474 Aug 2013 May 2014    0.8   93    47.8   Y
+  32037 SOUTH JOHNSTONE EXP STN                  -17.6053  145.9972 Nov 1999 May 2014   14.5   97    28.8   Y
+  32040 TOWNSVILLE AERO                          -19.2483  146.7661 Oct 1995 May 2014   18.6   98    48.9   Y
+  32141 LUCINDA POINT                            -18.5203  146.3861 Oct 1996 May 2014   15.3   84    25.4   Y
+  32182 CAPE FERGUSON NTC AWS                    -19.2774  147.0586 Jul 2013 May 2014    0.9   91    47.4   Y
+  33002 AYR DPI RESEARCH STN                     -19.6169  147.3758 Oct 2000 May 2014   10.2   35    16.2   Y
+  33045 MACKAY AERO                              -21.1706  149.1794 Oct 1995 May 2014   18.6   98    48.4   Y
+  33106 HAMILTON ISLAND AIRPORT                  -20.3658  148.9536 Jul 2002 May 2014   11.8   97    29.4   Y
+  33119 MACKAY M.O                               -21.1172  149.2169 Oct 1995 May 2014   18.6   98    32.2   Y
+  33195 WILLIAMSON                               -22.4703  150.1786 Jun 2005 May 2014    8.9   98    24.1   Y
+  33208 ROSSLYN BAY NTC AWS                      -23.1610  150.7901 Jul 2012 May 2014    1.8   88    48.0   Y
+  33210 ST LAWRENCE                              -22.3472  149.5242 Aug 2004 May 2014    9.8   97    30.8   Y
+  33247 PROSERPINE AIRPORT                       -20.4925  148.5550 Mar 1996 May 2014   18.2   97    29.2   Y
+  33255 HAMILTON ISLAND                          -20.3528  148.9511 Mar 2002 Jul 2002    0.4   83    24.6   N
+  33294 YEPPOON THE ESPLANADE                    -23.1364  150.7506 Oct 1995 May 2014   18.6   98    47.8   Y
+  33295 ALVA BEACH                               -19.4569  147.4833 Mar 1997 May 2014   17.2   97    30.9   Y
+  33298 DOTSWOOD                                 -19.6264  146.2939 Mar 1996 May 2005    8.4   84    26.4   Y
+  33307 WOOLSHED                                 -19.4167  146.5364 Nov 1998 May 2014   15.4   94    28.1   Y
+  33308 SAMUEL HILL AERO                         -22.7433  150.6578 Nov 2000 May 2014   13.5   98    34.7   Y
+  34035 MORANBAH AIRPORT                         -22.0644  148.0758 Feb 2012 May 2014    2.3   89    50.9   Y
+  35124 CLERMONT AIRPORT                         -22.7756  147.6217 Apr 2010 May 2014    4.1   94    47.9   Y
+  35129 ROLLESTON AIRPORT                        -24.4617  148.6264 Jul 2010 May 2014    3.8   94    47.8   Y
+  35134 BLACKWATER AIRPORT                       -23.6015  148.8074 Jul 2013 May 2014    0.9   92    47.9   Y
+  35139 LOCHINGTON                               -23.9424  147.5250 Oct 2010 May 2014    3.6   93    47.8   Y
+  35264 EMERALD AIRPORT                          -23.5694  148.1756 Nov 1998 May 2014   15.5   98    28.6   Y
+  36031 LONGREACH AERO                           -23.4397  144.2828 Oct 1995 May 2014   18.6   98    47.1   Y
+  36034 BLACKALL AIRPORT                         -24.4303  145.4306 Mar 2001 May 2014   13.2   98    32.8   Y
+  37010 CAMOOWEAL TOWNSHIP                       -19.9225  138.1214 Jun 1999 May 2014   14.9   65    14.0   Y
+  37034 THE MONUMENT AIRPORT                     -21.8125  139.9267 Dec 2000 May 2014   13.4   96    28.8   Y
+  37036 TREPELL AIRPORT                          -21.8400  140.8925 Aug 2001 May 2014   12.8   96    28.5   Y
+  37039 WINTON AIRPORT                           -22.3617  143.0836 Oct 2002 May 2014   11.6   97    29.9   Y
+  37058 URANDANGI AERODROME                      -21.5980  138.3667 Sep 2012 May 2014    1.7   87    48.1   Y
+  37059 NEW MAY DOWNS                            -20.5900  139.3411 Aug 2013 May 2014    0.8   88    47.7   Y
+  38026 BIRDSVILLE AIRPORT                       -25.8975  139.3472 Jul 2000 May 2014   13.8   98    28.8   Y
+  39059 LADY ELLIOT ISLAND                       -24.1116  152.7161 Nov 1998 May 2014   13.7   50    12.3   Y
+  39066 GAYNDAH AIRPORT                          -25.6167  151.6156 Jan 2003 May 2014   11.3   97    32.4   Y
+  39083 ROCKHAMPTON AERO                         -23.3753  150.4775 Oct 1995 May 2014   18.6   98    49.4   Y
+  39089 THANGOOL AIRPORT                         -24.4935  150.5709 Oct 2009 May 2014    4.6   96    42.2   Y
+  39122 HERON ISLAND RES STN                     -23.4422  151.9131 Feb 1999 Mar 2007    8.2   99    25.7   Y
+  39123 GLADSTONE RADAR                          -23.8553  151.2628 Jul 1994 May 2014   19.8   98    48.7   Y
+  39128 BUNDABERG AERO                           -24.9069  152.3230 Nov 1998 May 2014   15.5   98    36.2   Y
+  39304 HERON ISLAND                             -23.4483  151.9178 Oct 1995 Feb 1999    1.8   46    22.4   Y
+  39322 RUNDLE ISLAND                            -23.5293  151.2763 Jan 1996 May 2014   18.2   95    46.1   Y
+  39326 GLADSTONE AIRPORT                        -23.8697  151.2214 Jan 1996 May 2014   18.3   98    48.6   Y
+  40004 AMBERLEY AMO                             -27.6297  152.7111 Oct 1995 May 2014   18.6   98    35.5   Y
+  40043 CAPE MORETON LIGHTHOUSE                  -27.0314  153.4661 Mar 1996 May 2014   18.2   98    39.1   Y
+  40068 DOUBLE ISLAND POINT LIGHTHOUSE           -25.9319  153.1906 May 1996 May 2014   17.8   96    38.8   Y
+  40082 UNIVERSITY OF QUEENSLAND GATTON          -27.5436  152.3375 Jul 2002 May 2014   11.8   98    34.5   Y
+  40093 GYMPIE                                   -26.1831  152.6414 Jul 2000 May 2014   13.8   98    31.0   Y
+  40126 MARYBOROUGH                              -25.5161  152.7156 Dec 2007 May 2014    6.4   96    52.5   Y
+  40211 ARCHERFIELD AIRPORT                      -27.5717  153.0078 Jul 1994 May 2014   19.8   98    48.6   Y
+  40223 BRISBANE AERO                            -27.4178  153.1142 Jan 1985 Feb 2000   15.2   99    48.7   Y
+  40282 NAMBOUR DPI                              -26.6431  152.9392 Jul 1997 Dec 2007   10.5   98    23.7   Y
+  40284 BEERBURRUM FOREST STATION                -26.9586  152.9619 Jun 1999 May 2014   14.9   98    35.8   Y
+  40405 HERVEY BAY AIRPORT                       -25.3220  152.8817 Jun 1999 May 2014   14.9   98    35.4   Y
+  40555 TOOLARA (KELLY)                          -25.9713  152.8609 Nov 1998 May 2014   15.5   98    24.0   Y
+  40651 JIMNA FORESTRY                           -26.6644  152.4606 Jul 2000 May 2014   13.8   96    32.4   Y
+  40717 COOLANGATTA                              -28.1681  153.5053 Jul 1994 May 2014   19.8   98    49.1   Y
+  40764 GOLD COAST SEAWAY                        -27.9390  153.4283 Jul 1994 May 2014   19.8   98    48.5   Y
+  40842 BRISBANE AERO                            -27.3917  153.1292 Oct 1995 May 2014   18.6   98    48.5   Y
+  40861 SUNSHINE COAST AIRPORT                   -26.6006  153.0903 Oct 1995 May 2014   18.6   98    49.3   Y
+  40908 TEWANTIN RSL PARK                        -26.3911  153.0403 Mar 1996 May 2014   18.2   98    26.7   Y
+  40913 BRISBANE                                 -27.4808  153.0389 Dec 1999 May 2014   14.4   98    47.8   Y
+  40922 KINGAROY AIRPORT                         -26.5737  151.8398 Jan 2001 May 2014   13.3   98    30.3   Y
+  40958 REDCLIFFE                                -27.2169  153.0922 Feb 2004 May 2014   10.3   97    48.0   Y
+  40983 BEAUDESERT DRUMLEY STREET                -27.9707  152.9898 Aug 2007 May 2014    6.8   97    41.8   Y
+  40988 NAMBOUR DAFF - HILLSIDE                  -26.6442  152.9383 Dec 2007 May 2014    6.4   96    38.9   Y
+  41097 INGLEWOOD FOREST                         -28.3429  150.9363 Jul 2000 Feb 2013   12.7   96    27.1   Y
+  41175 APPLETHORPE                              -28.6217  151.9533 Mar 1997 May 2014   17.2   98    31.0   Y
+  41359 OAKEY AERO                               -27.4034  151.7413 Oct 1995 May 2014   18.6   96    35.6   Y
+  41522 DALBY AIRPORT                            -27.1605  151.2634 Jul 2006 May 2014    7.8   97    32.5   Y
+  41525 WARWICK                                  -28.2061  152.1003 Nov 1998 May 2014   13.5   78    30.6   Y
+  41529 TOOWOOMBA AIRPORT                        -27.5425  151.9134 Jun 1996 May 2014   17.9   98    35.0   Y
+  42112 MILES CONSTANCE STREET                   -26.6569  150.1819 Nov 1998 May 2014   15.1   84    23.5   Y
+  43091 ROMA AIRPORT                             -26.5474  148.7716 Mar 1997 May 2014   17.2   98    31.9   Y
+  43109 ST GEORGE AIRPORT                        -28.0489  148.5942 Nov 1998 May 2014   15.3   93    26.9   Y
+  44021 CHARLEVILLE AERO                         -26.4139  146.2558 Oct 1995 May 2014   18.6   98    48.2   Y
+  45009 BALLERA GAS FIELD                        -27.4008  141.8114 Aug 2002 May 2014   11.8   98    24.6   Y
+  45025 THARGOMINDAH AIRPORT                     -27.9867  143.8150 Sep 1999 May 2014   14.7   95    27.7   Y
+  45059 JACKSON OILFIELD                         -27.6364  142.4008 Nov 1998 Jul 2000    1.8   72     1.6   N
+  46012 WILCANNIA AERODROME AWS                  -31.5194  143.3850 Jan 2000 May 2014   14.3   98    36.4   Y
+  46126 TIBOOBURRA AIRPORT                       -29.4448  142.0567 Sep 1997 May 2014   16.7   96    27.4   Y
+  46128 FOWLERS GAP AWS                          -31.0867  141.7017 Oct 2004 May 2014    9.6   96    27.6   Y
+  46129 WHITE CLIFFS AWS                         -30.8517  143.0742 Jul 2005 May 2014    8.8   97    29.6   Y
+  47048 BROKEN HILL AIRPORT AWS                  -32.0012  141.4694 Jan 1989 May 2014   24.4   94    38.2   Y
+  48027 COBAR MO                                 -31.4840  145.8294 Jan 1989 May 2014   24.5   93    34.7   Y
+  48237 COBAR AIRPORT AWS                        -31.5388  145.7964 Jul 1993 May 2014   20.8   97    31.7   Y
+  48244 COBAR COMPARISON                         -31.4861  145.8281 Jan 2000 Nov 2000    0.9   92    47.4   Y
+  48245 BOURKE AIRPORT AWS                       -30.0362  145.9521 Feb 1999 May 2014   15.3   97    33.5   Y
+  49000 IVANHOE AERODROME AWS                    -32.8831  144.3088 Jul 2000 May 2014   13.8   97    28.0   Y
+  50017 WEST WYALONG AIRPORT AWS                 -33.9382  147.1962 Apr 1999 May 2014   15.1   98    28.8   Y
+  50137 CONDOBOLIN AIRPORT AWS                   -33.0682  147.2133 Jun 1993 May 2014   20.9   97    32.3   Y
+  51049 TRANGIE RESEARCH STATION AWS             -31.9861  147.9489 Oct 1997 May 2014   16.6   97    29.4   Y
+  51161 COONAMBLE AIRPORT AWS                    -30.9776  148.3798 Sep 1997 May 2014   16.7   98    28.6   Y
+  52088 WALGETT AIRPORT AWS                      -30.0372  148.1223 May 1997 May 2014   17.0   98    34.7   Y
+  53000 MOREE AUTOSONDE                          -29.4917  149.8461 Jun 2000 Oct 2001    1.4   89    46.7    
+  53115 MOREE AERO                               -29.4898  149.8471 Jan 1989 May 2014   25.2   96    41.4   Y
+  54038 NARRABRI AIRPORT AWS                     -30.3154  149.8302 Jul 2001 May 2014   12.8   97    35.7   Y
+  55202 GUNNEDAH AIRPORT AWS                     -30.9537  150.2494 Sep 2001 May 2014   12.7   97    30.0   Y
+  55325 TAMWORTH AIRPORT AWS                     -31.0742  150.8362 Jan 1989 May 2014   25.2   95    31.6   Y
+  56018 INVERELL RESEARCH CENTRE                 -29.7752  151.0819 Dec 2002 May 2014   11.4   96    33.1   Y
+  56238 ARMIDALE AIRPORT AWS                     -30.5273  151.6158 May 1993 May 2014   21.0   96    40.3   Y
+  56243 GLEN INNES AIRPORT AWS                   -29.6780  151.6940 Oct 1996 May 2014   17.6   97    29.6   Y
+  58009 BYRON BAY (CAPE BYRON LIGHTHOUSE)        -28.6388  153.6361 May 2002 Nov 2002    0.6   95    26.6   N
+  58012 YAMBA PILOT STATION                      -29.4333  153.3633 Oct 2007 May 2014    6.6   96    34.6   Y
+  58077 GRAFTON RESEARCH STN                     -29.6224  152.9605 Aug 2002 May 2014   11.8   97    47.4   Y
+  58161 GRAFTON AIRPORT AWS                      -29.7583  153.0297 Apr 2006 May 2014    8.1   97    47.1   Y
+  58198 BALLINA AIRPORT AWS                      -28.8353  153.5585 Jul 1995 May 2014   18.8   97    34.8   Y
+  58208 CASINO AIRPORT AWS                       -28.8775  153.0520 Jul 1995 May 2014   18.8   97    32.6   Y
+  58212 EVANS HEAD RAAF BOMBING RANGE AWS        -29.1830  153.3964 Mar 1998 May 2014   16.2   97    34.6   Y
+  58214 LISMORE AIRPORT AWS                      -28.8305  153.2601 Feb 2002 May 2014   12.3   97    36.5   Y
+  58216 BYRON BAY (CAPE BYRON AWS)               -28.6399  153.6358 Nov 2002 May 2014   11.5   97    37.5   Y
+  59007 KEMPSEY AIRPORT AWS                      -31.0711  152.7717 Feb 2001 May 2014   13.3   98    37.0   Y
+  59040 COFFS HARBOUR MO                         -30.3107  153.1187 Jan 1989 May 2014   25.2   96    41.4   Y
+  59151 COFFS HARBOUR AIRPORT COMPARISON         -30.3193  153.1162 Aug 2013 May 2014    0.8   90    47.9   Y
+  60139 PORT MACQUARIE AIRPORT AWS               -31.4335  152.8655 Jul 1995 May 2014   18.8   97    34.2   Y
+  60141 TAREE AIRPORT AWS                        -31.8896  152.5120 Jun 1997 May 2014   16.9   98    30.0   Y
+  61055 NEWCASTLE NOBBYS SIGNAL STATION AWS      -32.9184  151.7985 Oct 2001 May 2014   12.6   98    44.1   Y
+  61078 WILLIAMTOWN RAAF                         -32.7932  151.8359 Jan 1989 May 2014   25.2   96    39.0   Y
+  61087 GOSFORD (NARARA RESEARCH STATION) AWS    -33.3949  151.3289 Apr 1999 May 2013   14.2   98    32.4   Y
+  61250 PATERSON (TOCAL AWS)                     -32.6296  151.5919 Jul 2002 May 2014   11.8   98    34.1   Y
+  61260 CESSNOCK AIRPORT AWS                     -32.7886  151.3377 Jun 1994 May 2014   19.9   97    33.8   Y
+  61287 MERRIWA (ROSCOMMON)                      -32.1852  150.1737 Aug 2007 May 2014    6.8   97    49.5   Y
+  61363 SCONE AIRPORT AWS                        -32.0335  150.8264 Jan 1989 May 2014   24.8   94    31.9   Y
+  61366 NORAH HEAD AWS                           -33.2814  151.5766 Oct 1992 May 2014   19.4   86    46.7   Y
+  61375 MANGROVE MOUNTAIN AWS                    -33.2894  151.2107 Jun 1994 May 2014   19.9   97    33.2   Y
+  61379 WILLIAMTOWN COMPARISON AWS               -32.8081  151.8419 Jul 1995 Aug 1999    4.2   93    24.2   Y
+  61392 MURRURUNDI GAP AWS                       -31.7416  150.7937 Jun 2003 May 2014   10.9   97    42.3   Y
+  61412 COORANBONG (LAKE MACQUARIE AWS)          -33.0887  151.4636 Jul 2008 May 2014    5.8   96    47.7   Y
+  61425 GOSFORD AWS                              -33.4351  151.3614 Jul 2013 May 2014    0.9   94    48.3   Y
+  62100 NULLO MOUNTAIN AWS                       -32.7244  150.2290 Jan 1989 May 2014   25.2   95    34.6   Y
+  62101 MUDGEE AIRPORT AWS                       -32.5628  149.6149 Jan 1989 May 2014   25.2   95    30.7   Y
+  63291 BATHURST AIRPORT AWS                     -33.4119  149.6540 Jan 1989 May 2014   25.2   96    33.1   Y
+  63292 MOUNT BOYCE AWS                          -33.6185  150.2741 Sep 1989 May 2014   24.6   96    37.3   Y
+  63303 ORANGE AIRPORT AWS                       -33.3813  149.1270 Mar 1996 May 2014   18.2   97    35.2   Y
+  64017 COONABARABRAN AIRPORT AWS                -31.3330  149.2699 Jul 2001 May 2014   12.8   98    37.5   Y
+  65068 PARKES AIRPORT AWS                       -33.1281  148.2428 Sep 1997 May 2014   16.7   98    34.1   Y
+  65070 DUBBO AIRPORT AWS                        -32.2206  148.5753 Jan 1989 May 2014   24.8   94    30.2   Y
+  65103 FORBES AIRPORT AWS                       -33.3627  147.9205 Jan 1996 May 2014   18.3   97    28.1   Y
+  65111 COWRA AIRPORT AWS                        -33.8449  148.6497 Jul 2004 May 2014    9.8   96    34.6   Y
+  66022 FORT DENISON                             -33.8551  151.2254 Aug 1994 Oct 2002    1.3    1     1.1   Y
+  66023 LUCAS HEIGHTS AWS                        -34.0514  150.9800 Feb 1999 Aug 2000    1.6   93    90.7   Y
+  66037 SYDNEY AIRPORT AMO                       -33.9465  151.1731 Jan 1970 May 2014   44.3   99    48.5   Y
+  66043 KURNELL AWS                              -34.0039  151.2111 May 2000 Apr 2004    1.9   11     1.4   Y
+  66051 LITTLE BAY (THE COAST GOLF CLUB)         -33.9829  151.2502 Jul 1999 Feb 2004    1.0    5     1.7   Y
+  66059 TERREY HILLS AWS                         -33.6908  151.2253 Sep 2004 May 2014    9.7   97    39.1   Y
+  66062 SYDNEY (OBSERVATORY HILL)                -33.8607  151.2050 Sep 1993 May 2014   20.7   98    47.5   Y
+  66137 BANKSTOWN AIRPORT AWS                    -33.9181  150.9864 Jan 1989 May 2014   25.2   96    43.4   Y
+  66161 HOLSWORTHY AERODROME AWS                 -33.9918  150.9486 Aug 2012 May 2014    1.8   86    49.7   Y
+  66194 CANTERBURY RACECOURSE AWS                -33.9057  151.1134 Jan 1996 May 2014   18.3   97    48.7   Y
+  66195 SYDNEY OLYMPIC PARK (SYDNEY OLYMPIC PK A -33.8521  151.0646 Jan 1996 Aug 2011   15.7   98    48.3   Y
+  66196 SYDNEY HARBOUR (WEDDING CAKE WEST)       -33.8405  151.2643 Sep 1997 May 2014   13.6   79    48.1   Y
+  66197 MANLY (NORTH HEAD)                       -33.8152  151.2986 Sep 1997 Sep 2002    0.3    0     1.2   Y
+  66202 SYDNEY HARBOUR (CANNAE POINT)            -33.8153  151.2842 Sep 1997 Mar 2001    2.1   16     1.1   Y
+  66212 SYDNEY OLYMPIC PARK AWS (ARCHERY CENTRE) -33.8338  151.0718 Aug 2011 May 2014    2.8   91    50.2   Y
+  67033 RICHMOND RAAF                            -33.6022  150.7794 Jan 1985 Nov 1994    9.9   99    19.1   N
+  67105 RICHMOND RAAF                            -33.6004  150.7761 Jan 1989 May 2014   25.2   96    43.4   Y
+  67108 BADGERYS CREEK AWS                       -33.8969  150.7281 Jan 1996 May 2014   18.3   97    46.5   Y
+  67113 PENRITH LAKES AWS                        -33.7195  150.6783 Jan 1996 May 2014   18.3   98    47.1   Y
+  67117 HOLSWORTHY CONTROL RANGE                 -33.9795  150.9254 Apr 1998 May 2014   16.1   97    47.8   Y
+  67119 HORSLEY PARK EQUESTRIAN CENTRE AWS       -33.8511  150.8567 Sep 1997 May 2014   16.7   98    47.8   Y
+  68072 NOWRA RAN AIR STATION AWS                -34.9469  150.5353 Nov 2000 May 2014   13.5   98    49.3   Y
+  68076 NOWRA RAN AIR STATION                    -34.9449  150.5450 Jan 1989 Nov 2000   11.8   82    29.0   Y
+  68151 JERVIS BAY (POINT PERPENDICULAR AWS)     -35.0936  150.8049 May 2001 May 2014   13.0   97    29.2   Y
+  68192 CAMDEN AIRPORT AWS                       -34.0391  150.6890 Apr 1992 May 2014   20.8   77    36.2   Y
+  68228 BELLAMBI AWS                             -34.3691  150.9291 Feb 1990 May 2014   17.3   69    49.0   Y
+  68239 MOSS VALE AWS                            -34.5253  150.4217 Feb 2001 May 2014   13.3   97    43.6   Y
+  68241 ALBION PARK (WOLLONGONG AIRPORT)         -34.5638  150.7900 Jun 1999 May 2014   14.9   98    38.4   Y
+  68242 KIAMA (BOMBO HEADLAND)                   -34.6532  150.8609 Dec 2001 May 2014    8.6   65    35.5   Y
+  68253 PORT KEMBLA NTC AWS                      -34.4734  150.9118 Jul 2012 May 2014    1.8   89    48.8   Y
+  68257 CAMPBELLTOWN (MOUNT ANNAN)               -34.0615  150.7735 Nov 2006 May 2014    7.5   97    44.9   Y
+  69017 MONTAGUE ISLAND LIGHTHOUSE               -36.2519  150.2275 Apr 1998 May 2014   16.1   96    31.7   Y
+  69128 NERRIGA AWS                              -35.1103  150.0826 Jul 2013 May 2014    0.9   94    50.0   Y
+  69132 BRAIDWOOD RACECOURSE AWS                 -35.4253  149.7835 Jan 1989 May 2014   25.2   95    32.7   Y
+  69137 GREEN CAPE AWS                           -37.2622  150.0504 Jul 2000 May 2014   13.8   95    29.7   Y
+  69138 ULLADULLA AWS                            -35.3635  150.4827 Sep 1992 May 2014   21.7   97    32.7   Y
+  69139 BEGA AWS                                 -36.6722  149.8191 Apr 1992 May 2014   22.1   96    34.3   Y
+  69147 MERIMBULA AIRPORT AWS                    -36.9077  149.8989 Apr 1998 May 2014   16.1   97    36.1   Y
+  69148 MORUYA AIRPORT AWS                       -35.9004  150.1437 Oct 1999 May 2014   14.6   97    32.5   Y
+  70014 CANBERRA AIRPORT COMPARISON              -35.3049  149.2014 Jan 1985 Dec 2010   26.0   99    43.6   Y
+  70217 COOMA AIRPORT AWS                        -36.2939  148.9725 Apr 1992 May 2014   22.1   98    36.2   Y
+  70328 BOMBALA AWS                              -37.0016  149.2336 Feb 1989 May 2014   24.9   93    32.6   Y
+  70330 GOULBURN AIRPORT AWS                     -34.8085  149.7312 Jan 1989 May 2014   25.2   96    33.4   Y
+  70339 TUGGERANONG (ISABELLA PLAINS) AWS        -35.4184  149.0937 May 1996 May 2014   18.0   98    47.6   Y
+  70349 MOUNT GININI AWS                         -35.5293  148.7721 Jun 2004 May 2014    9.9   97    48.7   Y
+  70351 CANBERRA AIRPORT                         -35.3088  149.2003 Sep 2008 May 2014    5.7   96    51.2   Y
+  71032 THREDBO AWS                              -36.4917  148.2859 Apr 1998 May 2014   16.1   97    33.3   Y
+  71075 PERISHER VALLEY AWS                      -36.4069  148.4055 May 2010 May 2014    4.0   94    47.7   Y
+  72150 WAGGA WAGGA AMO                          -35.1583  147.4575 Jan 1989 May 2014   25.2   96    42.7   Y
+  72160 ALBURY AIRPORT AWS                       -36.0690  146.9509 Apr 1993 May 2014   21.1   97    36.3   Y
+  72161 CABRAMURRA SMHEA AWS                     -35.9371  148.3779 Dec 1996 May 2014   17.4   97    31.4   Y
+  72162 KHANCOBAN AWS                            -36.2304  148.1405 Dec 1996 May 2014   17.4   97    27.8   Y
+  73138 YOUNG AIRPORT                            -34.2493  148.2475 Jan 1989 May 2014   24.8   93    30.9   Y
+  73151 TEMORA AIRPORT                           -34.4292  147.5111 Jan 2005 May 2014    9.3   96    30.9   Y
+  74023 FINLEY AIRPORT AWS                       -35.6613  145.5610 Mar 2001 Oct 2003    2.7   93    22.5   Y
+  74037 YANCO AGRICULTURAL INSTITUTE             -34.6222  146.4326 Aug 1999 May 2014   14.8   98    29.3   Y
+  74148 NARRANDERA AIRPORT                       -34.7050  146.5140 Mar 2007 May 2014    7.2   94    46.6   Y
+  74253 FINLEY (CSIRO)                           -35.7111  145.6236 May 1989 Mar 2001   11.4   87    22.2   Y
+  74258 DENILIQUIN AIRPORT AWS                   -35.5575  144.9458 May 1997 May 2014   17.0   98    32.3   Y
+  75019 HAY AIRPORT AWS                          -34.5412  144.8345 Jun 2007 May 2014    6.9   95    32.2   Y
+  75041 GRIFFITH AIRPORT AWS                     -34.2487  146.0695 Jun 2000 May 2014   13.9   98    37.4   Y
+  75174 GRIFFITH CSIRO                           -34.3229  146.0684 Jan 1989 Oct 2003   14.3   90    22.4   Y
+  75175 HAY CSIRO AWS                            -34.5471  144.8670 May 1989 Sep 2007   17.9   89    22.2   Y
+  76031 MILDURA AIRPORT                          -34.2358  142.0867 Jan 1989 May 2014   24.8   95    40.3   Y
+  76064 WALPEUP RESEARCH                         -35.1201  142.0040 Nov 1998 May 2014   15.5   98    44.7   Y
+  77010 HOPETOUN AIRPORT                         -35.7151  142.3569 Jun 2004 May 2014    9.9   97    49.2   Y
+  77094 SWAN HILL AERODROME                      -35.3766  143.5416 May 1997 May 2014   17.0   98    43.3   Y
+  78015 NHILL AERODROME                          -36.3092  141.6486 Jun 2003 May 2014   10.9   98    49.1   Y
+  78072 DONALD                                   -36.3697  142.9709 Feb 1999 Feb 2001    2.1   94    48.7   N
+  78087 YANAC CFA AWS                            -36.2556  141.3861 May 1997 Jun 1999    1.8   72    45.3    
+  79028 LONGERENONG                              -36.6722  142.2991 May 1997 May 2014   17.0   98    48.5   Y
+  79097 KANAGULK                                 -37.1169  141.8031 May 2004 May 2014   10.0   97    48.7   Y
+  79099 EDENHOPE AIRPORT                         -37.0222  141.2657 Apr 2005 May 2014    9.1   98    48.7   Y
+  79100 HORSHAM AERODROME                        -36.6697  142.1731 Oct 1997 May 2014   16.6   98    44.8   Y
+  79101 PYRENEES (BEN NEVIS)                     -37.2281  143.2006 Dec 2007 May 2014    6.4   96    50.4   Y
+  79103 GRAMPIANS (MOUNT WILLIAM)                -37.2950  142.6039 Dec 2005 May 2014    8.4   97    52.9   Y
+  79105 STAWELL AERODROME                        -37.0720  142.7402 Feb 1996 May 2014   18.3   98    47.5   Y
+  80091 KYABRAM                                  -36.3350  145.0638 Sep 2002 May 2014    8.4   63    42.7   Y
+  80128 CHARLTON                                 -36.2847  143.3341 Jul 2004 May 2014    9.8   98    48.7   Y
+  81049 TATURA INST SUSTAINABLE AG               -36.4378  145.2672 May 2006 May 2014    4.2   45    44.8   Y
+  81123 BENDIGO AIRPORT                          -36.7395  144.3266 Nov 1993 May 2014   20.5   97    41.9   Y
+  81124 YARRAWONGA                               -36.0294  146.0306 Jul 2002 May 2014   11.8   98    48.5   Y
+  81125 SHEPPARTON AIRPORT                       -36.4289  145.3947 Jul 1996 May 2014   17.8   98    42.7   Y
+  82039 RUTHERGLEN RESEARCH                      -36.1047  146.5094 Jan 1998 May 2014   16.2   97    42.8   Y
+  82138 WANGARATTA AERO                          -36.4206  146.3056 Oct 1995 May 2014   18.6   98    41.9   Y
+  82139 HUNTERS HILL                             -36.2136  147.5394 Apr 1993 May 2014   21.1   97    39.9   Y
+  83024 MOUNT BULLER                             -37.1450  146.4394 Oct 1992 May 2014   21.2   91    44.4   Y
+  83055 DINNER PLAIN (MOUNT HOTHAM AIRPORT)      -37.0491  147.3347 Jul 2000 May 2014   13.8   98    51.3   Y
+  83084 FALLS CREEK                              -36.8708  147.2755 Sep 1991 May 2014   22.5   95    50.3   Y
+  83085 MOUNT HOTHAM                             -36.9767  147.1342 Sep 1991 May 2014   22.7   96    43.7   Y
+  83090 OMEO                                     -37.1017  147.6008 Aug 2004 May 2014    9.8   98    48.9   Y
+  84016 GABO ISLAND LIGHTHOUSE                   -37.5679  149.9158 Aug 2007 May 2014    6.8   96    50.3   Y
+  84084 MALLACOOTA                               -37.5976  149.7289 Nov 1993 May 2014   20.5   97    41.5   Y
+  84142 GELANTIPY                                -37.2200  148.2625 May 1992 May 2014   21.9   96    40.4   Y
+  84143 COMBIENBAR AWS                           -37.3417  149.0228 Jul 1994 May 2014   19.8   98    41.2   Y
+  84144 MOUNT NOWA NOWA                          -37.6924  148.0908 Oct 1995 May 2014   18.6   98    42.2   Y
+  84145 ORBOST                                   -37.6922  148.4667 Nov 2000 May 2014   13.5   98    48.2   Y
+  85072 EAST SALE AIRPORT                        -38.1156  147.1322 Nov 1993 May 2014   20.5   97    47.7   Y
+  85096 WILSONS PROMONTORY LIGHTHOUSE            -39.1297  146.4244 Sep 2000 May 2014   13.7   97    54.1   Y
+  85099 POUND CREEK                              -38.6297  145.8107 Apr 2007 May 2014    7.1   97    49.3   Y
+  85151 YARRAM AIRPORT                           -38.5647  146.7479 Oct 2007 May 2014    6.6   96    50.2   Y
+  85279 BAIRNSDALE AIRPORT                       -37.8817  147.5669 May 1997 May 2014   16.6   95    48.3   Y
+  85280 MORWELL (LATROBE VALLEY AIRPORT)         -38.2094  146.4747 May 1997 May 2014   17.0   98    46.1   Y
+  85291 MOUNT BAW BAW                            -37.8383  146.2747 Jan 1994 May 2014   18.8   83    41.4   Y
+  85296 MOUNT MOORNAPA                           -37.7481  147.1428 Jan 1994 May 2014   20.3   98    40.4   Y
+  85301 CORNER INLET (YANAKIE)                   -38.8051  146.1939 Jan 2013 May 2014    1.3   84    50.3   Y
+  85313 NILMA NORTH (WARRAGUL)                   -38.1322  145.9867 Jan 2014 May 2014    0.4   80    48.0   Y
+  86038 ESSENDON AIRPORT                         -37.7276  144.9066 Feb 1999 May 2014   12.4   73    47.0   Y
+  86068 VIEWBANK                                 -37.7408  145.0972 Jul 2000 May 2014   13.8   98    47.2   Y
+  86071 MELBOURNE REGIONAL OFFICE                -37.8075  144.9700 Mar 1997 May 2014   16.3   92    47.1   Y
+  86077 MOORABBIN AIRPORT                        -37.9800  145.0962 Aug 1992 May 2014   21.8   98    51.5   Y
+  86104 SCORESBY RESEARCH INSTITUTE              -37.8710  145.2561 Sep 1996 May 2014   17.7   98    47.8   Y
+  86266 FERNY CREEK                              -37.8748  145.3496 Mar 2011 May 2014    3.2   93    47.8   Y
+  86282 MELBOURNE AIRPORT                        -37.6655  144.8321 Jul 1970 May 2014   43.8   99    48.1   Y
+  86320 COLDSTREAM COMPARISON                    -37.7239  145.4092 Jul 2009 May 2014    4.8   95    48.4   Y
+  86338 MELBOURNE (OLYMPIC PARK)                 -37.8255  144.9816 Jul 2013 May 2014    0.9   94    48.6   Y
+  86344 SOUTH CHANNEL ISLAND                     -38.3065  144.8016 Dec 1998 Jul 2002    3.6   95    88.4   Y
+  86352 BROADMEADOWS (GLENLITTA AVE NORTH EAST)  -37.6897  144.9478 May 1997 Sep 2006    3.3   27    42.6   Y
+  86361 CERBERUS                                 -38.3646  145.1785 Sep 1991 May 2014   22.6   97    43.3   Y
+  86371 FRANKSTON AWS                            -38.1481  145.1156 Jan 1992 May 2014   22.3   97    47.9   Y
+  86372 FERNY CREEK (DUNNS HILL)                 -37.8775  145.3364 Sep 1991 Jul 2011   19.9   98    50.1   Y
+  86373 RHYLL                                    -38.4612  145.3101 Sep 1991 May 2014   22.7   97    47.8   Y
+  86376 FAWKNER BEACON                           -37.9089  144.9281 Mar 1992 Jan 2002    6.3   20     1.2   Y
+  86383 COLDSTREAM                               -37.7239  145.4092 Oct 1994 May 2014   19.6   98    42.1   Y
+  87031 LAVERTON RAAF                            -37.8565  144.7566 Nov 1993 May 2014   20.5   98    43.3   Y
+  87113 AVALON AIRPORT                           -38.0287  144.4783 Nov 1994 May 2014   19.5   98    44.6   Y
+  87163 GROVEDALE (GEELONG AIRPORT)              -38.2241  144.3345 Sep 1991 Aug 2011   20.0   97    48.1   Y
+  87166 POINT WILSON                             -38.0958  144.5361 Oct 1992 Sep 2008   14.8   89    46.6   Y
+  87168 SHEOAKS                                  -37.9075  144.1303 Sep 1991 May 2014   22.4   95    48.5   Y
+  87184 BREAKWATER (GEELONG RACECOURSE)          -38.1737  144.3765 Jun 2011 May 2014    2.9   93    49.1   Y
+  88051 REDESDALE                                -37.0194  144.5203 Nov 1994 May 2014   15.4   77    44.5   Y
+  88109 MANGALORE AIRPORT                        -36.8886  145.1859 Nov 1993 May 2014   20.5   98    48.1   Y
+  88162 WALLAN (KILMORE GAP)                     -37.3807  144.9654 Nov 1994 May 2014   18.1   90    49.4   Y
+  88164 EILDON FIRE TOWER                        -37.2091  145.8423 Dec 1995 May 2014   18.4   98    43.9   Y
+  89002 BALLARAT AERODROME                       -37.5127  143.7911 Jul 2000 May 2014   13.8   98    60.7   Y
+  89105 LOOKOUT HILL                             -37.2822  143.2469 Feb 1992 May 2007   14.5   91    50.5   Y
+  89112 WESTMERE                                 -37.7067  142.9378 Feb 2006 May 2014    8.3   97    48.9   Y
+  90015 CAPE OTWAY LIGHTHOUSE                    -38.8556  143.5128 Aug 1994 May 2014   19.8   98    50.1   Y
+  90035 COLAC (MOUNT GELLIBRAND)                 -38.2333  143.7925 Jul 2000 May 2014   13.8   98    49.7   Y
+  90171 PORTLAND (CASHMORE AIRPORT)              -38.3148  141.4705 Oct 1995 May 2014   18.6   98    50.8   Y
+  90173 HAMILTON AIRPORT                         -37.6486  142.0636 May 1995 May 2014   19.0   98    46.0   Y
+  90175 PORT FAIRY AWS                           -38.3906  142.2347 Sep 1991 May 2014   22.7   97    48.9   Y
+  90176 MORTLAKE RACECOURSE                      -38.0737  142.7744 Sep 1991 May 2014   22.7   97    48.1   Y
+  90180 AIREYS INLET                             -38.4583  144.0883 Sep 1991 May 2014   22.7   98    50.1   Y
+  90182 CASTERTON                                -37.5830  141.3339 Mar 2005 May 2014    9.2   98    49.0   Y
+  90184 CAPE NELSON LIGHTHOUSE                   -38.4306  141.5437 May 1997 May 2014   17.0   99    52.0   Y
+  90186 WARRNAMBOOL AIRPORT NDB                  -38.2867  142.4522 Sep 1998 May 2014   15.7   98    49.6   Y
+  90192 PORTLAND NTC AWS                         -38.3439  141.6136 Apr 2011 May 2014    3.1   93    50.4   Y
+  90194 DARTMOOR                                 -37.9222  141.2614 Mar 2009 May 2014    5.2   96    49.2   Y
+  91104 LAUNCESTON AIRPORT COMPARISON            -41.5397  147.2033 Oct 1990 Jun 2009   18.8   99    40.4   Y
+  91107 WYNYARD AIRPORT                          -40.9964  145.7311 Oct 1990 May 2014   23.6   98    42.2   Y
+  91126 DEVONPORT AIRPORT                        -41.1701  146.4289 Oct 1990 May 2014   23.6   98    41.1   Y
+  91219 SCOTTSDALE (WEST MINSTONE ROAD)          -41.1708  147.4883 Jan 2003 May 2014   11.3   97    40.8   Y
+  91237 LAUNCESTON (TI TREE BEND)                -41.4194  147.1222 Oct 1999 May 2014   14.6   98    41.3   Y
+  91245 CAPE GRIM BAPS (COMPARISON)              -40.6828  144.6900 May 1997 May 2014   17.0   98    37.7   Y
+  91259 LUNCHEON HILL (FORESTRY)                 -41.1492  145.1517 Nov 1997 May 2014   15.3   82    36.0   Y
+  91291 SHEFFIELD SCHOOL FARM                    -41.3886  146.3219 Apr 2002 May 2014    8.9   64    42.1   Y
+  91292 SMITHTON AERODROME                       -40.8347  145.0847 Jul 1998 May 2014   15.8   98    39.1   Y
+  91293 LOW HEAD                                 -41.0547  146.7874 Jun 2000 May 2014    9.3   57    41.7   Y
+  91306 CRESSY RESEARCH STATION                  -41.7256  147.0794 Jul 1999 May 2014   11.4   71    46.0   Y
+  91311 LAUNCESTON AIRPORT                       -41.5492  147.2144 Jul 2004 May 2014    9.8   98    51.9   Y
+  91331 CAPE GRIM                                -40.6764  144.6922 Dec 2010 May 2014    3.4   93    58.5   Y
+  91344 BURNIE NTC AWS                           -41.0500  145.9149 Jul 2013 May 2014    0.9   94    49.9   Y
+  92012 FINGAL (LEGGE STREET)                    -41.6428  147.9664 Apr 2001 May 2014   13.0   94    37.2   Y
+  92045 LARAPUNA (EDDYSTONE POINT)               -40.9928  148.3467 Jun 1994 May 2014   15.0   71    38.5   Y
+  92100 STORYS CREEK (STORYS CREEK ROAD)         -41.6350  147.7292 May 1992 Jan 1998    5.8   96    45.2   Y
+  92114 FRIENDLY BEACHES                         -41.9953  148.2794 Nov 1997 May 2014   16.3   95    37.9   Y
+  92120 ST HELENS AERODROME                      -41.3381  148.2792 Jan 2001 May 2014   13.3   97    38.2   Y
+  92123 SWAN ISLAND                              -40.7292  148.1250 Mar 2003 May 2014   10.5   90    49.0   Y
+  92124 MARIA ISLAND (POINT LESUEUR)             -42.6621  148.0179 Oct 2004 May 2014    9.5   94    48.4   Y
+  92133 SPRING BAY NTC AWS                       -42.5464  147.9308 Jul 2013 May 2014    0.9   94    51.1   Y
+  94008 HOBART AIRPORT                           -42.8339  147.5033 Nov 1984 May 2014   29.5   99    48.9   Y
+  94029 HOBART (ELLERSLIE ROAD)                  -42.8897  147.3278 Oct 1994 May 2014   19.6   97    52.4   Y
+  94041 MAATSUYKER ISLAND LIGHTHOUSE             -43.6578  146.2711 Nov 1997 May 2014   15.2   83    42.8   Y
+  94087 MOUNT WELLINGTON                         -42.8950  147.2358 Jul 1990 May 2014   23.4   96    55.0   Y
+  94155 TASMAN ISLAND                            -43.2397  148.0025 Dec 2001 May 2014   12.4   98    53.0   Y
+  94191 HARTZ MOUNTAIN (KEOGHS PIMPLE)           -43.2006  146.7683 Jun 1999 May 2014   14.9   97    56.6   Y
+  94195 TUNNACK FIRE STATION                     -42.4543  147.4612 Feb 1998 May 2014   14.1   81    37.6   Y
+  94198 CAPE BRUNY (CAPE BRUNY)                  -43.4886  147.1444 Nov 1997 May 2014   16.0   95    41.9   Y
+  94212 CAMPANIA (KINCORA)                       -42.6867  147.4258 Apr 2001 May 2014   10.3   66    40.4   Y
+  94220 GROVE (RESEARCH STATION)                 -42.9858  147.0742 Aug 2004 May 2014    8.9   85    44.6   Y
+  94254 DUNALLEY (STROUD POINT)                  -42.9017  147.7894 Apr 2012 May 2014    2.1   91    50.1   Y
+  94255 DENNES POINT                             -43.0639  147.3567 Sep 2012 May 2014    1.7   85    50.1   Y
+  95003 BUSHY PARK (BUSHY PARK ESTATES)          -42.7097  146.8983 Jul 1998 May 2014   13.8   82    37.7   Y
+  95048 OUSE FIRE STATION                        -42.4842  146.7106 Dec 1999 May 2014   12.9   85    38.5   Y
+  96003 BUTLERS GORGE                            -42.2753  146.2758 May 2008 May 2014    6.0   96    47.9   Y
+  96033 LIAWENEE                                 -41.8997  146.6694 Jan 2001 May 2014   13.3   98    42.1   Y
+  96075 BARREN TIER                              -42.0197  146.7533 Jan 1997 Mar 2001    4.3   93    52.0   Y
+  97000 CAPE SORELL                              -42.1986  145.1700 Jun 2011 May 2014    2.9   94    51.9   Y
+  97024 WARRA                                    -43.0609  146.7040 Sep 2004 May 2014    9.7   97    49.8   Y
+  97072 STRAHAN AERODROME                        -42.1550  145.2908 May 1993 May 2014   21.0   97    42.1   Y
+  97080 LOW ROCKY POINT                          -42.9831  145.5025 Mar 2012 May 2014    2.2   88    52.6   Y
+  97083 SCOTTS PEAK DAM                          -43.0425  146.2722 Mar 1995 May 2014   13.0   55    41.6   Y
+  97085 MOUNT READ                               -41.8444  145.5417 Jan 1998 May 2014   10.6   46    36.8   Y
+  98017 KING ISLAND AIRPORT                      -39.8801  143.8829 Oct 1990 May 2014   23.6   96    33.8   Y
+  99005 FLINDERS ISLAND AIRPORT                  -40.0911  148.0024 May 1993 May 2014   21.0   98    38.3   Y
+ 200001 MIDDLE PERCY ISLAND                      -21.6628  150.2711 Jul 2004 May 2014    9.8   97    38.6   Y
+ 200100 VARANUS ISLAND                           -20.6550  115.5769 Apr 1999 May 2014   15.0   96    39.0   Y
+ 200212 NORTHERN ENDEAVOUR                       -10.6134  125.9843 Jul 2000 May 2014   13.5   88    53.9   Y
+ 200283 WILLIS ISLAND                            -16.2878  149.9652 Oct 1995 May 2014   18.3   94    41.6   Y
+ 200284 COCOS ISLAND AIRPORT                     -12.1892   96.8344 Nov 1995 May 2014   18.5   98    34.8   Y
+ 200288 NORFOLK ISLAND AERO                      -29.0389  167.9408 Jul 1994 May 2014   19.8   98    40.8   Y
+ 200601 CATO ISLAND                              -23.2503  155.5420 Aug 2011 May 2014    0.9   26    44.0   Y
+ 200701 FREDERICK REEF                           -20.9375  154.4019 Oct 2008 May 2014    1.3   14    37.2   Y
+ 200704 MARION REEF                              -19.0964  152.3892 Mar 2009 May 2014    1.3   15    38.4   Y
+ 200713 ROWLEY SHOALS                            -17.5217  118.9531 Dec 2008 Mar 2014    1.2    8    69.5   Y
+ 200731 POINT FAWCETT                            -11.7628  130.0300 Jul 2000 May 2014   13.2   79    24.5   Y
+ 200732 HOLMES REEF                              -16.4683  147.8734 Mar 2004 May 2014    0.9    7    44.1   Y
+ 200735 ADELE ISLAND                             -15.5114  123.1556 Jul 2013 May 2014    0.9   94    47.5   Y
+ 200736 CREAL REEF                               -20.5303  150.3773 Apr 2008 May 2014    1.5   13    34.4   Y
+ 200782 NORTH EAST ISLAND                        -13.6449  136.9445 Oct 2010 May 2014    3.6   94    48.2   Y
+ 200783 FLINDERS REEF                            -17.7195  148.4478 Mar 2006 May 2014    1.8   10    32.1   Y
+ 200784 BROWSE ISLAND                            -14.1089  123.5472 Jul 2013 May 2014    0.9   94    47.9   Y
+ 200786 CAPE WESSEL                              -11.0045  136.7588 Dec 2011 May 2014    2.1   74    47.7   Y
+ 200790 CHRISTMAS ISLAND AERO                    -10.4528  105.6875 Nov 1995 May 2014   18.5   98    28.0   Y
+ 200831 GANNET CAY                               -21.9769  152.4707 Feb 2004 May 2014    1.7   10    30.2   Y
+ 200838 HOGAN ISLAND                             -39.2225  146.9841 May 2003 May 2014    8.9   77    49.5   Y
+ 200839 LORD HOWE ISLAND AERO                    -31.5421  159.0786 Jul 1994 May 2014   19.8   98    41.1   Y
+ 200840 BOUGAINVILLE REEF                        -15.4877  147.1183 Oct 2008 May 2014    1.7   13    30.3   Y
+ 200867 BAYU UNDAN                               -11.0683  126.6139 Jul 2009 Apr 2014    4.0   56    95.6   Y
+ 200872 COMORO AIRPORT                            -8.5494  125.5331 Jul 2008 Apr 2011    2.8   85    29.1   Y
+ 200880 LIHOU REEF LIGHTHOUSE                    -17.1330  152.1450 Sep 2013 May 2014    0.8   81    45.4   Y
+ 200884 VANUATU (SOLA (VANUA LAVA))              -13.8500  167.5500 Jan 2010 Feb 2014    1.7    5     1.7    
+ 200885 VANUATU (PEKOA AIRPORT (SANTO))          -15.5166  167.2167 Jan 2010 May 2014    2.9    7     1.8    
+ 200886 VANUATU (LAMAP (MALEKULA))               -16.4166  167.8000 Jan 2010 Feb 2014    1.8    5     1.6    
+ 200887 VANUATU (BAUERFIELD (EFATE))             -17.7000  168.3000 Jan 2010 May 2014    3.6   10     2.2    
+ 200888 VANUATU (BURTONFIELD (TANNA))            -19.4500  169.2200 Jan 2010 May 2014    2.6    6     1.7    
+ 200889 VANUATU (ANEITYUM)                       -20.2333  169.7667 Jan 2010 Feb 2014    1.9    5     1.6    
+ 300000 DAVIS                                    -68.5744   77.9672 Sep 1994 May 2014   14.0   67    49.5   Y
+ 300001 MAWSON                                   -67.6017   62.8753 Mar 1996 May 2014   14.6   72    53.7   Y
+ 300004 MACQUARIE ISLAND                         -54.4994  158.9369 Nov 1997 May 2014   16.3   92    49.1   Y
+ 300017 CASEY                                    -66.2825  110.5231 Jan 1998 May 2014   15.3   80    48.1   Y
+ 300050 WILKINS RUNWAY EAST                      -66.6831  111.5317 Nov 2007 May 2014    4.3   51    40.2   Y
+ 300055 DAVIS (WHOOP WHOOP)                      -68.4845   78.8169 Feb 2007 Dec 2013    5.6   63    43.4   Y
+ 300060 CASEY SKIWAY SOUTH                       -66.2803  110.7615 Jan 2010 May 2014    4.1   74    36.2   Y
+
+597 stations
+
+(c) Copyright Commonwealth of Australia 2014, Bureau of Meteorology (ABN 92 637 533 532) 
+Please note Copyright, Disclaimer and Privacy Notice, accessible at <http://www.bom.gov.au/other/copyright.shtml>
+
